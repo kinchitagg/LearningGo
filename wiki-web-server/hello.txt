@@ -1,3 +1,0 @@
-this is a hello page
-
-now it is changed
