@@ -4,11 +4,11 @@ This repository contains multiple small Go projects as part of my journey to lea
 
 ## Projects Included
 
-### Booking CLI App
+### ### [Booking CLI App](./bookingApp)
 
 The Booking CLI App is a simple command-line application that allows users to book tickets. It has a limit on the number of available tickets and prompts the user for basic details before booking the tickets. The app is designed to demonstrate basic command-line interaction and input handling in Go.
 
-### Go Wiki - Simple Web Server Project
+### [Go Wiki - Simple Web Server Project](./wiki-web-server)
 
 The Go Wiki project is a basic web server that serves wiki pages. Users can view existing wiki pages and create new pages by providing a title. If a page does not exist, the server will create a new page with the given title. Users can then edit the page and save its content. This project aims to teach web server development in Go, including HTTP request handling and response rendering.
 
