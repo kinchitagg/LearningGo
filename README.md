@@ -4,7 +4,7 @@ This repository contains multiple small Go projects as part of my journey to lea
 
 ## Projects Included
 
-### ### [Booking CLI App](./bookingApp)
+### [Booking CLI App](./bookingApp)
 
 The Booking CLI App is a simple command-line application that allows users to book tickets. It has a limit on the number of available tickets and prompts the user for basic details before booking the tickets. The app is designed to demonstrate basic command-line interaction and input handling in Go.
 
